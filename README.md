@@ -60,7 +60,7 @@ Gain meaningful insights from Blinkit's retail operations, including:
 
 **Author**: Aadarsh Jaiswal  
 🔗 [Portfolio](https://aadarshjaiswalvns.github.io/Data-Analytics-Portfolio)  
-💼 [LinkedIn](https://www.linkedin.com/in/aadarshjaiswalvns)  
+💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-jaiswal/)  
 📧 [Email](mailto:aadarshjaiswalvns@gmail.com)
 
 ---
