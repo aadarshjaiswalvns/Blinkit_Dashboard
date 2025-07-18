@@ -38,10 +38,10 @@ Gain meaningful insights from Blinkit's retail operations, including:
 
 ## 📂 Project Files
 
-📁 data/
-└── BlinkIT_Grocery_Data.csv # Raw sales and outlet dataset
+📁 data  
+└── BlinkIT Grocery Data.csv # Raw sales and outlet dataset
 
-📄 Blinkit_Analysis.pbix # Power BI dashboard file
+📄 BLINKIT DASHBOARD.pbix # Power BI dashboard file  
 📄 README.md # Project documentation
 
 
